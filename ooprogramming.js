@@ -42,7 +42,6 @@ class Worker extends Person{
 function intern() {
     var intern = new Worker("Bob", 21, 110, 0, 10);
     intern.goToWork();
-    console.log(intern);
     return intern;
 
 }
@@ -51,7 +50,9 @@ function intern() {
 function manager() {
     var manager = new Worker("Alice", 30, 120, 100, 30)
     manager.doSomethingFun();
-
     return manager;
     
 }
+
+intern();
+manager();
