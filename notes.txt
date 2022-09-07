@@ -4,4 +4,11 @@
 
 
 ------Data-Structures -----
+- map. filter, forEach
 
+---- Spread and Rest ----
+- Spread: unpack an array
+array length not known and must be last
+- Rest: desTructuring
+
+- 
