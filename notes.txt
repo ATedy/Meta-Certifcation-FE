@@ -11,4 +11,10 @@
 array length not known and must be last
 - Rest: desTructuring
 
-- 
+----- Moving Data ------
+- Json to JS object
+ - JSON.parse(JsonFile)
+
+- Object to Json 
+ - JSON.stringigy(data)
+
