@@ -4,3 +4,12 @@
 1. E2E: entire functionality of finished product of the app just like a user (open it in browser like a user), slowest to setup
 2. Integration: tesing how seperate components of your app works together
 3. Unit: tesing the smallest piece of code in your app like functions or methods. 
+
+-- Mocking --
+- allows to separate code from dependencies during tesing
+
+
+--- Why Jest -- :
+- just mock functions
+- easy to asyncorous testing
+- SnapShot testing: 
